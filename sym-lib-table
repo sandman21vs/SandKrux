@@ -4,5 +4,6 @@
   (lib (name "FH12-40S-0.5SH_55_")(type "Legacy")(uri "${KIPRJMOD}/LIB_SandKrux/LIB_FH12-40S-0.5SH_55_/FH12-40S-0.5SH_55_/KiCad/FH12-40S-0.5SH_55_.lib")(options "")(descr ""))
   (lib (name "FH12-40S-0_5SH_55_")(type "KiCad")(uri "${KIPRJMOD}/LIB_SandKrux/LIB_FH12-40S-0.5SH_55_/FH12-40S-0.5SH_55_/KiCad/FH12-40S-0_5SH_55_.kicad_sym")(options "")(descr ""))
   (lib (name "Krux_logo")(type "KiCad")(uri "${KIPRJMOD}/LIB_SandKrux/Krux_logo.kicad_sym")(options "")(descr ""))
-  (lib (name "tropic01_chip_pub")(type "KiCad")(uri "${KIPRJMOD}/LIB_SandKrux/tropic01_chip_pub.kicad_sym")(options "")(descr ""))
+  (lib (name "tropic01_chip_pub")(type "KiCad")(uri "${KIPRJMOD}/LIB_SandKrux/tropic01/tropic01_chip_pub.kicad_sym")(options "")(descr ""))
+  (lib (name "TROPIC01")(type "KiCad")(uri "${KIPRJMOD}/LIB_SandKrux/tropic01/KiCad-lib/TROPIC01.kicad_sym")(options "")(descr ""))
 )

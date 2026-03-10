@@ -4,4 +4,5 @@
   (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/LIB_SandKrux/easyeda2kicad.pretty")(options "")(descr ""))
   (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/LIB_SandKrux/LIB_FH12-40S-0.5SH_55_/FH12-40S-0.5SH_55_/KiCad")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/LIB_SandKrux/tropic01/Library.pretty")(options "")(descr ""))
+  (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/LIB_SandKrux/tropic01/KiCad-lib/logos.pretty")(options "")(descr ""))
 )
